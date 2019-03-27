@@ -11,3 +11,6 @@
 * https://github.com/davojta/brackets
 * https://github.com/davojta/advanced-zeros
 * https://github.com/davojta/love-triangle
+
+
+* https://github.com/BarikQ/brackets
